@@ -45,6 +45,13 @@ pip install -r requirements.txt
 ```bash
 python txt_from_images.py
 ```
+3.5 Enter the path of your API credentials
+3.6 Enter path of main folder with images, or main folder with subfolders. (enter ONLY the main folder path)
+3.7 Enter desired path for output .docx file.
+3.8 Enter
+
+--> Now you have a top notch accurate image to text bulk extraction to improve speed and productivity <--
+
 
 ## 📄 License
 This project is licensed under the MIT License.
