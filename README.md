@@ -1,7 +1,5 @@
 # text_from_images
-Google Vision based OCR tool for data extraction. 
 
-# Shadow for Github
 
 Simple CLI program that bulk extracts text from images and consolidates them into a single clean Word (.docx) document for further text processing.
 
